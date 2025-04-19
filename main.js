@@ -1,1 +1,1 @@
-console.log("From next class we will continue JS, from DataTypes!!")
+console.log("Continuing from operators!")
